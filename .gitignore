@@ -1,0 +1,15 @@
+#文件夹过滤
+**/.settings/
+**/target/
+**/.idea/
+**/.eggs/
+**.egg-info/
+
+#特定类型文件过滤
+*.jar
+*.class
+*.iml
+*.project
+*.classpath
+.DS_Store
+
